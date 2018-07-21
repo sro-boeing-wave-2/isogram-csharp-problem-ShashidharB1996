@@ -1,0 +1,9 @@
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\bin\Debug\netstandard2.0\IsogramProgram.deps.json
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\bin\Debug\netstandard2.0\IsogramProgram.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\bin\Debug\netstandard2.0\IsogramProgram.pdb
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.csprojAssemblyReference.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.csproj.CoreCompileInputs.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.AssemblyInfoInputs.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.AssemblyInfo.cs
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\IsogramProgram\obj\Debug\netstandard2.0\IsogramProgram.pdb

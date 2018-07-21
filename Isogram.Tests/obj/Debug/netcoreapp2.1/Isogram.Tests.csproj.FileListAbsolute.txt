@@ -1,0 +1,17 @@
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\Isogram.Tests.deps.json
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\Isogram.Tests.runtimeconfig.json
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\Isogram.Tests.runtimeconfig.dev.json
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\Isogram.Tests.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\Isogram.Tests.pdb
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\IsogramProgram.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\bin\Debug\netcoreapp2.1\IsogramProgram.pdb
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.csprojAssemblyReference.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.csproj.CoreCompileInputs.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.AssemblyInfoInputs.cache
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.AssemblyInfo.cs
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.csproj.CopyComplete
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.dll
+E:\workspace\CSharp_playground\CSharp_assignment\isogram-csharp-problem-ShashidharB1996\Isogram.Tests\obj\Debug\netcoreapp2.1\Isogram.Tests.pdb
